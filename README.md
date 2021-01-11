@@ -1,2 +1,2 @@
 # refactored-doodle
-READ ME
+README
